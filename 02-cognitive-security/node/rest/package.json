@@ -1,0 +1,16 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/cognitiveservices-translatortext": "^1.0.1",
+    "@azure/identity": "^3.2.4",
+    "@azure/keyvault-keys": "^4.7.1",
+    "@azure/keyvault-secrets": "^4.7.0",
+    "@azure/ms-rest-azure-js": "^2.1.0",
+    "azure-ai-text-analytics": "^0.0.1-security.15",
+    "azure-keyvault-secrets": "^0.0.1-security.2",
+    "dotenv": "^16.3.1"
+  }
+}
